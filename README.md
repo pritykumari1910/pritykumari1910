@@ -28,7 +28,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
 
-- 🌱 I’m currently in love with <b>DeepLearning</b>
+- 🌱 I’m currently in love with <b>DeepLearning and artificial intelligence</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
@@ -107,7 +107,7 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/akankushjnvku)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankushjnvku&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="prity's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankushjnvku&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
 
 
 
