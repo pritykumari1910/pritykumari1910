@@ -45,9 +45,7 @@ I am specelized in AIML. I am always enthusiastic about new creative projects fo
 
 
 - any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- machine learning projects(development or research).
 
 <details>
    <summary>📃 Resume</summary>
