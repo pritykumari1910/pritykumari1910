@@ -78,15 +78,15 @@ I am specelized in AIML. I am always enthusiastic about new creative projects fo
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/prity19)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/pritykumari1910/pritykumari1910/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) 
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/pritykumari1910/pritykumari1910/) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prity-kumari-157159250/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@pritykroy2003)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sundara_7808/?hl=en)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910" alt="prity's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" alt="prity's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritykumari1910&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910" alt="prity's github stats" /></a> | 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" alt="prity's github stats" /></a> | 
+<
 
 
 
