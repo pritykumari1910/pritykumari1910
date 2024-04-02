@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-![download](https://github.com/ShishirPatil/gorilla/assets/120323872/54cb0c88-ee83-4f06-b92c-2e69b89b83d2)
+
 
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
@@ -85,13 +85,9 @@ I am specelized in AIML. I am always enthusiastic about new creative projects fo
 </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910" alt="prity's github stats" /></a> | 
-<a href="https://github.com/pritykumari1910/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" alt="prity's github stats" /></a> | 
-<
-
-
+<a href="https://github.com/pritykumari1910/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" alt="prity's github stats" /></a> 
 
 <!--
-
 
 Here are some ideas to get you started:
 
