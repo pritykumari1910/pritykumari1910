@@ -85,7 +85,7 @@ I am specelized in AIML. I am always enthusiastic about new creative projects fo
 </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910" alt="prity's github stats" /></a> | 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" alt="prity's github stats" /></a> | 
+<a href="https://github.com/pritykumari1910/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" alt="prity's github stats" /></a> | 
 <
 
 
