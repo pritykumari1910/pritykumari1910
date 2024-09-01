@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/375c2a78-e16a-41ca-97cd-538edb806970)
 
 
 
@@ -35,11 +36,11 @@ I am specelized in AIML. I am always enthusiastic about new creative projects fo
 
 ### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
 ![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/user-attachments/assets/d28874f2-7116-45e7-9924-dd9c03c38889)
-
 - Classification
 - Clustering
 - Anomaly Detection
 - ML DEPLOYMENT
+
 
  ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
 
