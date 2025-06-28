@@ -83,7 +83,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=dracula&rank_icon=github" alt="prity's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=dark" alt="prity's github streak" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910" alt="prity's github stats" /></a> | 
 </p>
 
 ---
