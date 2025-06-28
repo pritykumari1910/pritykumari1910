@@ -1,94 +1,103 @@
-<!-- Banner / Header Image -->
-<!-- 🎥 Lightweight & Professional Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=1000&height=100&lines=Hi+there%2C+I'm+Prity+Kumari+%F0%9F%91%8B;I'm+a+passionate+AI+%26+ML+Enthusiast;A+Creative+Web+Developer;Always+learning+and+growing...;Let's+build+something+amazing+together!" alt="Typing SVG" /></a>
+</div>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" alt="Light Coding GIF" width="700px" style="border-radius: 10px;" />
+  <a href="https://github.com/pritykumari1910">
+    <img src="https://komarev.com/ghpvc/?username=pritykumari1910&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="pritykumari1910" />
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">Prity Kumari</span></h1>
-<h3 align="center">🌟 AI/ML Enthusiast | 💻 Frontend Developer | 🚀 Explorer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Enthusiast%20from%20India;Open%20Source%20Contributor;Love%20to%20solve%20real%20world%20problems;Always%20learning%20something%20new!&center=true&width=1000&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
+  I'm a final-year Computer Science student with a deep passion for Artificial Intelligence and Machine Learning. I thrive on transforming complex problems into elegant, data-driven solutions. My goal is to not just build models, but to build intelligent systems that make a difference. I'm constantly exploring new technologies and am always open to challenging projects that push the boundaries of my knowledge.
 </p>
 
----
-
-### ✨ About Me
-
-🎓 Final-year B.Tech Student in **Computer Science and Engineering**  
-💡 Passionate about combining **logic + creativity** to build intelligent systems  
-🔍 Research Areas: `AI/ML`, `Deep Learning`, `Digital Twin`, `Anomaly Detection`  
-🛠️ Tools I use daily: `Python`, `React`, `MongoDB`, `TensorFlow`, `Kubernetes`
-
-<img align="right" alt="Coder" width="350" src="https://lottie.host/7fc1eb95-71c2-4fc4-b111-84fc9497c7ec/XAIVL0ZoGe.json" />
-
-- 🔭 I’m currently working on: **Smart Diagnostic Systems**
-- 👯 Looking to collaborate on: **AI + Web Projects**
-- 💬 Ask me about: `Machine Learning`, `Open Source`, `GSAP Animations`
-- 📫 Reach me at: `pritykroy2003@gmail.com`
-- ⚡ Fun fact: _I speak Python better than Hindi sometimes 😅_
+<div align="center">
+  <a href="https://www.linkedin.com/in/prity-kumari-157159250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/prity19" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:pritykroy2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+   <a href="https://medium.com/@pritykroy2003" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
 
 ---
 
-### 🧠 Skills
+### 🚀 What I'm Currently Focused On
 
-#### 💻 Programming Languages:
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-#### 🧩 Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-#### ☁️ DevOps & Cloud:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### 📊 GitHub Stats
+- 🌱 Diving deep into **Deep Learning** architectures and their real-world applications.
+- 🔭 Exploring the decentralized world of **Web3** and its intersection with AI.
+- 👯 Eager to collaborate on innovative **Open Source Projects**.
+- 💬 Ask me about anything related to **Machine Learning**, **AI Ethics**, or **Open Source**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/32095f3c2415d80d7a641151478e5f1e.gif" alt="Coding" width="600"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🛠️ My Tech Stack & Tools
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritykumari1910&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
 </p>
 
 ---
 
-### 📌 Coding Profiles
+### 💡 My Research Interests in AI/ML
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/pritykroy/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pritykumari1910)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-14a800?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pritykumv5ab/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/prity19)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23039208/prity-kumari)
+- **Classification & Clustering:** Building models to categorize and group complex data.
+- **Anomaly Detection:** Identifying unusual patterns and outliers.
+- **ML Deployment:** Taking machine learning models from research to production (MLOps).
 
 ---
 
-### 📚 Latest Blog Posts
-- [Coming soon on Medium](https://medium.com/@pritykroy2003)
-
----
-
-### 📬 Connect with Me
+### 💻 My Coding Profiles
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prity-kumari-157159250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@pritykroy2003"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sundara_7808/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:pritykroy2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/pritykroy/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/pritykumv5ab/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://www.hackerrank.com/profile/pritykumari1910" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+  <a href="https://www.codingninjas.com/studio/profile/prity_19" target="_blank"><img src="https://img.shields.io/badge/CodingNinjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodingNinjas"/></a>
+  <a href="https://stackoverflow.com/users/23039208/prity-kumari" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://workat.tech/profile" target="_blank"><img src="https://img.shields.io/badge/work@tech-38A1F3?style=for-the-badge&logo=workattech&logoColor=white" alt="work@tech"/></a>
 </p>
 
 ---
 
+### 📊 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=dracula&rank_icon=github" alt="prity's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=dark" alt="prity's github streak" />
+</p>
+
+---
+
+<details>
+  <summary>🎓 My Education & Resume</summary>
+  
+  ### Shivalik College of Engineering (2021-2025)
+  - **Bachelor of Technology in Computer Science & Engineering**
+  
+  *For a more detailed overview, please feel free to view my full resume.*
+  
+  [**View My Resume**](https://your-resume-link.com) </details>
+
+<p align="center">
+  ⚡ Fun fact: I love designing and travelling to explore new places.
+</p>
