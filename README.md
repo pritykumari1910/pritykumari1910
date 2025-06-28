@@ -3,58 +3,47 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Prity Kumari</h1>
-<h3 align="center">AI/ML Enthusiast | Creative Web Developer | Open Source Contributor</h3>
+<h3 align="center">AI/ML Enthusiast • Web Developer • Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=900&lines=Turning+ideas+into+intelligent+systems.;Passionate+about+AI%2C+ML+%26+Web+Tech.;Let%27s+build+something+amazing+together!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=900&lines=Turning+ideas+into+intelligent+systems.;Passionate+about+AI%2C+ML+%26+Web+Tech.;Let%27s+build+something+amazing+together!" />
 </p>
 
 ---
 
 ### 🔍 About Me
 
-🎓 Final-year B.Tech CSE Student at Shivalik College of Engineering  
-🤖 Passionate about building intelligent, data-driven solutions  
-🧠 Interested in Deep Learning, Anomaly Detection & MLOps  
-💡 Always open to new challenges and collaborations!
+🎓 Final-year B.Tech student at **Shivalik College of Engineering** (2021–2025)  
+💻 Specialized in **Artificial Intelligence & Machine Learning**  
+🧠 I enjoy solving problems and building impactful intelligent systems  
+🌱 Currently exploring **Web3**, **DL**, and **MLOps**  
+✉️ Reach me: `pritykroy2003@gmail.com`
 
 ---
 
-### 🌐 Connect with Me
+### 🧠 AI/ML & Research Interests <img src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif" width="25" />
+
+- ✅ Classification & Clustering  
+- ⚠️ Anomaly Detection  
+- 🚀 ML Deployment  
+- 🧬 Adaptive AI in Healthcare
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
-  <a href="mailto:pritykroy2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/prity-kumari-157159250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/prity19"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://medium.com/@pritykroy2003"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,reactnative,nodejs,html,css,mysql,mongodb,git,linux" />
 </p>
 
 ---
 
-### ⚙️ Tech Stack
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,html,css,mysql,mongodb,git,figma,linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=pritykumari1910&theme=radical&hide_border=false" height="160" />
 </p>
-
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=dracula&hide_border=false" height="160"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=dracula&hide_border=false" height="160"/> -->
-  <img src="https://streak-stats.demolab.com/?user=pritykumari1910&theme=dracula&hide_border=false" height="160"/>
-</p>
-
----
-
-### 📚 Currently Exploring
-
-- 🌌 Deep Learning Architectures for Real World
-- 🌐 Web3 x AI Projects
-- 🧩 Adaptive AI in Healthcare
-- 🛠️ Building Full-stack ML Pipelines
 
 ---
 
@@ -63,39 +52,47 @@
 <p align="center">
   <a href="https://leetcode.com/pritykroy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://auth.geeksforgeeks.org/user/pritykumv5ab/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/pritykumari1910"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://www.codingninjas.com/studio/profile/prity_19"><img src="https://img.shields.io/badge/Coding Ninjas-DD6620?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/pritykumari1910"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+  <a href="https://www.codingninjas.com/studio/profile/prity_19"><img src="https://img.shields.io/badge/CodingNinjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/23039208/prity-kumari"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://workat.tech/profile"><img src="https://img.shields.io/badge/work@tech-38A1F3?style=for-the-badge&logo=workattech&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧠 AI/ML Interests
-
-- ✅ Classification, Clustering
-- ⚠️ Anomaly & Outlier Detection
-- 🚀 End-to-End ML Model Deployment
-- 🧬 AI for HealthTech & Ethics
-
----
-
-### 🧾 Education
-
-**🎓 Shivalik College of Engineering (2021 - 2025)**  
-Bachelor of Technology in **Computer Science & Engineering**
-
-📄 [View My Resume](https://your-resume-link.com)
-
----
-
-### 🧳 Fun Fact
-
-> ✈️ I love to design and explore new places. I believe learning and traveling share the same magic — discovery!
-
----
-
-### ✨ Profile Visitors
+### 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pritykumari1910&label=PROFILE+VIEWS&color=red&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/prity-kumari-157159250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@pritykroy2003"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/prity19"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sundara_7808/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+---
+
+### 🎓 Education
+
+<details>
+<summary>Click to expand</summary>
+
+- 🎓 **Shivalik College of Engineering** (2021–2025)  
+  🖥️ **Bachelor of Technology — Information Technology**  
+
+📄 *[Add your resume link here]*
+
+</details>
+
+---
+
+### ✨ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pritykumari1910&label=Profile+Views&color=brightgreen" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> ✈️ I love designing and traveling to discover new perspectives — whether in code or culture!
