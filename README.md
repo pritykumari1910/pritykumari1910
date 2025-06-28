@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner GIF"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
 
 <h1 align="center">Hi there 👋, I'm Prity Kumari</h1>
 <h3 align="center">AI/ML Enthusiast | Creative Web Developer | Open Source Contributor</h3>
@@ -43,7 +43,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=dracula&hide_border=false" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=dracula&hide_border=false" height="160"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=dracula&hide_border=false" height="160"/> -->
+  <img src="https://streak-stats.demolab.com/?user=pritykumari1910&theme=dracula&hide_border=false" height="160"/>
 </p>
 
 ---
