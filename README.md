@@ -1,7 +1,7 @@
 <!-- Banner / Header Image -->
 <!-- 🎥 Lightweight & Professional Animation -->
 <p align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_usmfx6bp.json" alt="Developer Animation" width="700px" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" alt="Light Coding GIF" width="700px" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">Prity Kumari</span></h1>
