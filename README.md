@@ -78,9 +78,9 @@
 <summary>Click to expand</summary>
 
 - 🎓 **Shivalik College of Engineering** (2021–2025)  
-  🖥️ **Bachelor of Technology — Information Technology**  
+  🖥️ **Bachelor of Technology — Computer Science Engineering**  
 
-📄 *[Add your resume link here]*
+
 
 </details>
 
