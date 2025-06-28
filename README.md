@@ -1,89 +1,100 @@
-<!-- Animated Intro Banner -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi,+I’m+Prity+Kumari👋;AI%2FML+Engineer+%7C+Web+%26+IoT+Innovator;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://github.com/ritik307/ritik307/blob/main/images/banner.gif" width="100%" alt="Welcome Banner" />
 </p>
+
+<!-- Typing SVG Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prity+Kumari+👋;AI+%7C+ML+Engineer+%7C+Web+%7C+IoT+Innovator;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+</h1>
 
 ---
 
 ## 👩‍💻 About Me
+
 - 🎓 **B.Tech (IT)** graduate from *Shivalik College of Engineering* (2021–2025)
-- 🤖 Expertise in **AI/ML**, **Web Development**, and **IoT**
-- ♻️ Developer of a **Smart Waste Management System** leveraging AI + sensor tech
-- 💼 Open to roles in **ML Research**, **Software Development**, or **IoT Projects**
+- 🤖 Specializing in **AI/ML**, **Web Development**, and **IoT Integration**
+- ♻️ Creator of **Smart Waste Management System** using AI + sensor data
+- 💼 Open to roles in **ML Research**, **Software Engineering**, or **IoT Projects**
 
 ---
 
-## 🚀 Projects
+## 🚀 Highlight Project – Smart Waste Management System
 
-### ♻️ Smart Waste Management System
 <p align="center">
-  <img src="https://media.giphy.com/media/oy83DwFksQ5KQKtMhz/giphy.gif" width="350" alt="Smart Waste Management System demo">
+  <img src="https://media.giphy.com/media/oy83DwFksQ5KQKtMhz/giphy.gif" width="300" alt="Smart Waste System">
 </p>
 
-An AI + IoT solution using sensors and predictive modeling to optimize garbage collection routes—reducing overflow and improving urban efficiency.
+> A predictive AI-powered garbage collection optimization system to reduce overflow and promote sustainability using real-time sensor data.
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,firebase,git,vscode,jupyter" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,firebase,git,vscode,jupyter" />
 </p>
 
 ---
 
-## 🧠 Specializations
-- Classification & Clustering Algorithms
-- Anomaly Detection & Deep Learning
-- IoT + Sustainable Smart City Solutions
-- ML Model Deployment & Real-time Processing
+## 🧠 Interests
+
+- 📊 Classification & Clustering
+- 🧠 Anomaly Detection & Deep Learning
+- 🏙️ Smart City + IoT Solutions
+- ☁️ Real-time ML Model Deployment
 
 ---
 
-## 📈 Code & Community
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://leetcode.com/pritykroy/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/pritykumari1910"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/pritykumv5ab/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.codingninjas.com/studio/profile/prity_19"><img src="https://img.shields.io/badge/CodingNinjas-orange?style=for-the-badge&logo=codingninjas&logoColor=white" /></a>
-  <a href="https://workat.tech/profile"><img src="https://img.shields.io/badge/Work@Tech-blue?style=for-the-badge&logo=workattech&logoColor=white" /></a>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=pritykumari1910&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritykumari1910&theme=react-dark&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🧩 Coding Platforms
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=radical" />
-</p>
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.cyclic.app/graph?username=pritykumari1910&theme=react-dark&area=true&hide_border=true" />
+  <a href="https://leetcode.com/pritykroy/"><img src="https://img.shields.io/badge/Leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/pritykumv5ab/"><img src="https://img.shields.io/badge/GeeksforGeeks-00C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/pritykumari1910"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.codingninjas.com/studio/profile/prity_19"><img src="https://img.shields.io/badge/CodingNinjas-orange.svg?style=for-the-badge&logo=codingninjas&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🔗 Contact Me
+## 🔗 Connect With Me
+
 <p align="center">
-  <a href="mailto:pritykroy2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pritykroy2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/prity-kumari-157159250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@pritykroy2003"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@pritykroy2003"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.kaggle.com/prity19"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 ---
 
 <details>
-  <summary>📄 Resume & Education</summary>
+<summary>📄 Resume & Education</summary>
 
-### 🎓 Education
-- **B.Tech in Information Technology**, Shivalik College of Engineering (2021–2025) — completed, 8th semester finished ✔️
+### 🎓 Education  
+- **B.Tech in Information Technology**, Shivalik College of Engineering (2021–2025)  
+- ✅ Final semester completed – results awaited
 
 </details>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Keep going!" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" />
 </p>
 
-> “Learning never exhausts the mind — it only grows stronger.”  
+> _“Learning never exhausts the mind – it only grows stronger.”_  
 > — *Prity Kumari*
