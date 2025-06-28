@@ -33,7 +33,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,reactnative,nodejs,html,css,mysql,mongodb,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,html,css,mysql,mongodb,git,linux" />
 </p>
 
 ---
@@ -42,7 +42,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=pritykumari1910&theme=radical&hide_border=false" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=dracula&hide_border=false" height="160"/>
+
 </p>
 
 ---
