@@ -1,7 +1,8 @@
 
 <!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" /> -->
 
-![{E5AD17EA-EE0C-4724-9C0D-A7E8F86F8AEA}](https://github.com/user-attachments/assets/33318a55-a29a-486c-ae40-e5e8e753cbf8)
+
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/3f985757-40d4-441c-b2a7-baa3f97df94c)
 
 
 <h1 align="center">Hi there 👋, I'm Prity Kumari</h1>
