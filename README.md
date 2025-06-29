@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+
+<!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" /> -->
+
+![{E5AD17EA-EE0C-4724-9C0D-A7E8F86F8AEA}](https://github.com/user-attachments/assets/33318a55-a29a-486c-ae40-e5e8e753cbf8)
+
 
 <h1 align="center">Hi there 👋, I'm Prity Kumari</h1>
 <h3 align="center">AI/ML Enthusiast • Web Developer • Open Source Contributor</h3>
