@@ -66,11 +66,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pritykumari1910/pritykumari1910/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 ---
 
