@@ -38,12 +38,35 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pritykumari1910&theme=radical&row=2&column=4" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritykumari1910&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritykumari1910&theme=dracula&hide_border=false" height="160"/>
+</p>
 
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritykumari1910&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pritykumari1910/pritykumari1910/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
@@ -79,8 +102,6 @@
 
 - 🎓 **Shivalik College of Engineering** (2021–2025)  
   🖥️ **Bachelor of Technology — Computer Science & Engineering**  
-
-
 
 </details>
 
