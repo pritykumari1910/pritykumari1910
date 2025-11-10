@@ -72,6 +72,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pritykumari1910/pritykumari1910/main/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" />
+</p>
+
 ---
 
 ### 👩‍💻 Coding Profiles
