@@ -2,8 +2,12 @@ name: Generate GitHub Activity Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# ADD THIS PERMISSIONS BLOCK HERE!
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,10 +17,7 @@ jobs:
       
       - uses: Platane/snk@v3
         with:
-          # FIXED: Used 'github_user_name'
           github_user_name: pritykumari1910 
-          
-          # Configuration for the animation
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake.gif
@@ -25,6 +26,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update GitHub Activity Snake
-          # FIXED: Used 'file_pattern' instead of 'files'
           file_pattern: output/github-contribution-grid-snake.gif output/github-contribution-grid-snake.svg
           branch: main
