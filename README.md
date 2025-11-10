@@ -67,9 +67,9 @@
 ---
 ### 🐍 My GitHub Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/pritykumari1910/pritykumari1910/main/output/github-contribution-grid-snake.gif" alt="GitHub Activity Snake" />
-</p>
+</p> -->
 
 
 <p align="center">
