@@ -13,7 +13,7 @@ jobs:
       
       - uses: Platane/snk@v3
         with:
-          # CORRECTED: Changed 'github_user' to 'github_user_name'
+          # FIXED: Used 'github_user_name'
           github_user_name: pritykumari1910 
           
           # Configuration for the animation
@@ -21,12 +21,10 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake.gif
           
-          # IMPORTANT: We REMOVED gif_out_path, gif_fps, and gif_duration 
-          # as they caused the "Unexpected input(s)" error.
-          
       # Commit the generated files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update GitHub Activity Snake
-          files: output/github-contribution-grid-snake.gif output/github-contribution-grid-snake.svg
-          branch: main # Verify this matches your default branch
+          # FIXED: Used 'file_pattern' instead of 'files'
+          file_pattern: output/github-contribution-grid-snake.gif output/github-contribution-grid-snake.svg
+          branch: main
