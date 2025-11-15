@@ -67,7 +67,7 @@
   
 
   <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,nodejs,mysql,mongodb,firebase,tensorflow,sklearn,opencv,git,docker,kubernetes,linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,nodejs,mysql,mongodb,firebase,tensorflow,sklearn,opencv,git,docker,kubernetes,linux" height="90" />
 
 
 
