@@ -56,7 +56,7 @@
 
 ---
 
-# 🚀 Tech Skills (Shields Badges)
+
 
 <p align="center">
 
