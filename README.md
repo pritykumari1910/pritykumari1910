@@ -12,13 +12,13 @@
 
 ## 🔍 About Me
 
-🎓 Final-year B.Tech student at **Shivalik College of Engineering** (2021–2025)  
-💻 Specialized in **Artificial Intelligence & Machine Learning**  
-🧠 Problem solver & real-world project developer  
-🌱 Currently exploring **AI Agents, n8n Workflow Automation, MLOps, LLMs, and Deep Learning**
-🤖 Building AI-powered workflows using **n8n**, REST APIs, Webhooks, and LLMs.
-⚡ Passionate about Workflow Automation, AI Integrations, and Full-Stack Development 
-✉️ Reach me: **pritykroy2003@gmail.com**
+- 🎓 Final-year B.Tech student at **Shivalik College of Engineering** (2021–2025)
+- 💻 Specialized in **Artificial Intelligence & Machine Learning**
+- 🧠 Problem solver & real-world project developer
+- 🌱 Currently exploring **AI Agents, n8n Workflow Automation, MLOps, LLMs, and Deep Learning**
+- 🤖 Building AI-powered workflows using **n8n**, REST APIs, Webhooks, and LLMs
+- ⚡ Passionate about **Workflow Automation, AI Integrations, and Full-Stack Development**
+- ✉️ Reach me: **pritykroy2003@gmail.com**
 
 ---
 
