@@ -2,7 +2,7 @@
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/3f985757-40d4-441c-b2a7-baa3f97df94c)
 
 <h1 align="center">Hi there 👋, I'm Prity Kumari</h1>
-<h3 align="center">AI/ML Enthusiast • Web Developer • Open Source Contributor</h3>
+<h3 align="center">Software Analyst • AI/ML Engineer • MERN Stack Developer • n8n Workflow Automation • Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=900&lines=Turning+ideas+into+intelligent+systems.;Passionate+about+AI%2C+ML+%26+Web+Tech.;Let%27s+build+something+amazing+together!" />
@@ -15,7 +15,9 @@
 🎓 Final-year B.Tech student at **Shivalik College of Engineering** (2021–2025)  
 💻 Specialized in **Artificial Intelligence & Machine Learning**  
 🧠 Problem solver & real-world project developer  
-🌱 Currently exploring **Web3**, **Deep Learning**, **MLOps**  
+🌱 Currently exploring **AI Agents, n8n Workflow Automation, MLOps, LLMs, and Deep Learning**
+🤖 Building AI-powered workflows using **n8n**, REST APIs, Webhooks, and LLMs
+⚡ Passionate about Workflow Automation, AI Integrations, and Full-Stack Development 
 ✉️ Reach me: **pritykroy2003@gmail.com**
 
 ---
@@ -67,7 +69,7 @@
   
 
   <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,nodejs,mysql,mongodb,firebase,tensorflow,sklearn,opencv,git,docker,kubernetes,linux" height="90" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css,react,nextjs,nodejs,express,mysql,mongodb,firebase,tensorflow,sklearn,opencv,git,github,docker,kubernetes,linux,vscode,postman" height="90" />
 
 
 
@@ -80,7 +82,19 @@
 - Classification & Clustering  
 - Anomaly Detection  
 - ML Deployment  
-- Adaptive AI in Healthcare  
+- Adaptive AI in Healthcare
+
+### ⚙️ Automation & AI
+
+- n8n Workflow Automation
+- REST APIs
+- Webhooks
+- AI Agents
+- LLM Integrations
+- OAuth Authentication
+- JSON Transformation
+- HTTP Requests
+- API Integrations
 
 ---
 
@@ -119,10 +133,19 @@
 
 # 🎖️ Certifications
 
-- Fundamentals of Python Programming — IIT Kanpur (E&ICT Academy)  
-- Flipkart Grid 6.0 Hackathon — Level 1  
-- Introduction to NLP — Infosys Springboard  
-- Basics of SQL — HackerRank  
+## 🏆 n8n Academy
+
+- ✅ n8n Quickstart
+- ✅ N8N101 – Essentials: Your First Workflows
+- ✅ N8N102 – Integrations: APIs & Connected Workflows
+- ✅ N8N103 – In Practice: AI, Testing & Best Practices
+
+## 🏅 Other Certifications
+
+- Fundamentals of Python Programming — IIT Kanpur (E&ICT Academy)
+- Flipkart Grid 6.0 Hackathon — Level 1
+- Introduction to NLP — Infosys Springboard
+- Basics of SQL — HackerRank
 
 ---
 
