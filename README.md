@@ -1,5 +1,5 @@
 <img width="1092" height="380" alt="skyline" src="https://github.com/user-attachments/assets/eaedaf2e-cf94-463d-b7fb-261a8af297d2" />
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/3f985757-40d4-441c-b2a7-baa3f97df94c)
+
 
 <h1 align="center">Hi there 👋, I'm Prity Kumari</h1>
 <h3 align="center">Software Analyst • AI/ML Engineer • MERN Stack Developer • n8n Workflow Automation • Open Source Contributor</h3>
@@ -58,7 +58,6 @@
 
 ---
 
-## 🏙️ My GitHub Skyline
 
 
 <p align="center">
