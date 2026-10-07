@@ -25,7 +25,7 @@
 # 💼 Experience
 
 ### 🔹 **Smart Data Enterprises — Software Analyst**  
-📅 *6th Oct 2024 – Present*  
+📅 *20th Jan 2024 – Present*  
 - Working as a **Software Analyst**, contributing to analysis, design & optimization.  
 - Supporting development of efficient analytical & software systems.
 
